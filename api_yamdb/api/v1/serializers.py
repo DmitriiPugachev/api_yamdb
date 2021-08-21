@@ -2,11 +2,7 @@ from datetime import datetime
 
 from django.contrib.auth import get_user_model
 from django.db.models.aggregates import Avg
-<<<<<<< HEAD
-from rest_framework.exceptions import ValidationError
-=======
 from django.shortcuts import get_object_or_404
->>>>>>> main
 from rest_framework import serializers, validators
 from rest_framework.relations import SlugRelatedField
 
