@@ -1,5 +1,5 @@
 ### Description:
-API for YamDb.
+API for YaMDb.
 #### You can:
   * create new users;
   * get, create, update and delete users;
