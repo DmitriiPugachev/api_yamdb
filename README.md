@@ -55,9 +55,7 @@ Run the project:
 python3 manage.py runserver
 ```
 ### Links
-[redoc with all possible requests examples](http://127.0.0.1:8000/redoc/) this link is for local usage
-
-[admin account](http://127.0.0.1:8000/admin/)  this link is for local usage
+[redoc with all possible requests examples](http://127.0.0.1:8000/redoc/) this link is for local usage.
 ### Authors
 Dmitrii Pugachev
 Mariya Yaschuk

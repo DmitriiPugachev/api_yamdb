@@ -8,7 +8,7 @@ from reviews.models import Title
 
 
 class TitleFilter(FilterSet):
-    """Reviews.Title custom filter."""
+    """Reviews.Title model custom filter."""
     name = filters.CharFilter(field_name="name", lookup_expr="icontains")
     year = filters.NumberFilter(field_name="year")
     genre = filters.CharFilter(field_name="genre__slug")
