@@ -44,7 +44,7 @@ Install all the dependencies from a ```requirements.txt``` file:
 ```bash
 pip install -r requirements.txt
 ```
-Create a ```.env``` file in the root directory and fulfill it like ```example.env```.
+Create a ```.env``` file in the root directory and fulfill it like ```.env.example```.
 
 Migrate:
 ```bash
